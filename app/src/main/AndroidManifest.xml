@@ -12,6 +12,9 @@
         <meta-data
             android:name="sqip.SQUARE_APPLICATION_ID"
             android:value="sandbox-sq0idb-mYMqDFLaO2hb5hwq7NXmig"/>
+        <meta-data
+            android:name="com.google.android.gms.wallet.api.enabled"
+            android:value="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
